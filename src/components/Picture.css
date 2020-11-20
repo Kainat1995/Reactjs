@@ -1,0 +1,34 @@
+.menu img{
+    width: 100%;
+    height: 90vh;
+    margin-top: 10px;
+}
+.heading{
+    text-align: center;
+    margin-top: -400px;
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+    letter-spacing: 10px;
+}
+.header{
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.button{
+    background-color: transparent;
+    border: none;
+    font-size: 12px;
+    font-weight:bold;
+    text-transform: uppercase;
+    width: 250px;
+    font-family: 'Montserrat', sans-serif;
+    border:solid white;
+    color: black;
+    margin-left: 525  px;
+    padding: 20px 20px;
+    margin-top: 100px;
+}
